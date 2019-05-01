@@ -12,7 +12,7 @@ Cloudiness (%) vs. Latitude
 Wind Speed (mph) vs. Latitude
 
 
-# My final notebook must:
+# My final notebook had:
 
 
 Randomly select at least 500 unique (non-repeat) cities based on latitude and longitude.
@@ -24,10 +24,7 @@ Save both a CSV of all data retrieved and png images for each scatter plot.
 # As final considerations:
 
 
-I had to complete your analysis using a Jupyter notebook.
-I had to use the Matplotlib or Pandas plotting libraries.
-I had to include a written description of three observable trends based on the data.
-I had to use proper labeling of your plots, including aspects like: Plot Titles (with date of analysis) and Axes Labels.
+I had to complete the  analysis using a Jupyter notebook, Matplotlib or Pandas plotting libraries.
+I then  written description of three observable trends based on the data and proper labeling of your plots, including aspects like: Plot Titles (with date of analysis) and Axes Labels.
 
 
-The city data is generated based on random coordinates; as such, your outputs will not be an exact match to the provided starter notebook.
