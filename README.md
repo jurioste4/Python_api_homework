@@ -7,10 +7,22 @@ I was tasked with creating a Python script to visualize the weather of 500+ citi
 
 
 Temperature (F) vs. Latitude
+
+![temperature](image/temperature.jpg)
+
+
 Humidity (%) vs. Latitude
+
+![temperature](image/humidity.jpg)
+
 Cloudiness (%) vs. Latitude
+
+![temperature](image/cloudiness.jpg)
+
+
 Wind Speed (mph) vs. Latitude
 
+![temperature](image/windspeed.jpg)
 
 # My final notebook had:
 
