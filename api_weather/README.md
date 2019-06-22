@@ -1,4 +1,4 @@
-# Python_api_homework
+
 # WeatherPy
 
 I was tasked with creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I had to utilizing a simple Python library, the OpenWeatherMap API, and a little common sense to create a representative model of weather across world cities.
@@ -6,10 +6,23 @@ I was tasked with creating a Python script to visualize the weather of 500+ citi
 # My objective is to build a series of scatter plots to showcase the following relationships:
 
 
-Temperature (F) vs. Latitude
-Humidity (%) vs. Latitude
-Cloudiness (%) vs. Latitude
-Wind Speed (mph) vs. Latitude
+###  Latitude vs. Temperature (F)
+
+![temp](my_code/temperature.jpg)
+
+### Latitude vs. Humidity (%)
+
+![humidity](my_code/humidity.jpg)
+
+
+
+###   Latitude vs Cloudiness (%)
+
+![cloudiness](my_code/cloudiness.jpg)
+
+###  Latitude vs.  Wind Speed (mph) 
+
+![windspeed](my_code/windspeed.jpg)
 
 
 # My final notebook had:
