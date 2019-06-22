@@ -1,4 +1,4 @@
-# Python_api_homework
+
 # WeatherPy
 
 I was tasked with creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I had to utilizing a simple Python library, the OpenWeatherMap API, and a little common sense to create a representative model of weather across world cities.
