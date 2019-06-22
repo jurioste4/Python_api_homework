@@ -6,10 +6,23 @@ I was tasked with creating a Python script to visualize the weather of 500+ citi
 # My objective is to build a series of scatter plots to showcase the following relationships:
 
 
-Temperature (F) vs. Latitude
-Humidity (%) vs. Latitude
-Cloudiness (%) vs. Latitude
-Wind Speed (mph) vs. Latitude
+###  Latitude vs. Temperature (F)
+
+![temp](my_code/temperature.jpg)
+
+### Latitude vs. Humidity (%)
+
+![humidity](my_code/humidity.jpg)
+
+
+
+###   Latitude vs Cloudiness (%)
+
+![cloudiness](my_code/cloudiness.jpg)
+
+###  Latitude vs.  Wind Speed (mph) 
+
+![windspeed](my_code/windspeed.jpg)
 
 
 # My final notebook had:
