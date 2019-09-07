@@ -8,21 +8,21 @@ I was tasked with creating a Python script to visualize the weather of 500+ citi
 
 Temperature (F) vs. Latitude
 
-![temperature](image/temperature.jpg)
+![temperature](image/temp_max.png)
 
 
 Humidity (%) vs. Latitude
 
-![temperature](image/humidity.jpg)
+![temperature](image/Humidity.png)
 
 Cloudiness (%) vs. Latitude
 
-![temperature](image/cloudiness.jpg)
+![temperature](image/cloudiness.png)
 
 
 Wind Speed (mph) vs. Latitude
 
-![temperature](image/windspeed.jpg)
+![temperature](image/windspeed_plotly.png)
 
 # My final notebook had:
 
